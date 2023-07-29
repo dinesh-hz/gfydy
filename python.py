@@ -65,3 +65,6 @@ h = frozenset({"dinesh" , "dinesheij" , "outlook"})
 
 print(h)
 
+
+#second code
+
